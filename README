@@ -1,0 +1,1 @@
+Downloads a google doc using the Google Docs API and transforms it to Markdown. This script does a few extra things to split content based on the heading structure. The current state of this repo is more of a backup rather than shareable code
